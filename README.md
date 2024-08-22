@@ -14,7 +14,7 @@ Martin Raison (CTO).
 * Idea for the Company: Nabla was founded with the idea of reducing the administrative
 burden of medical documentation. The process was inefficient as it caused distractions in
 doctors trying to multitask and human errors when annotating a conversation with a
-patient. Nabla founders saw an opportunity to use NLP (Natural Language Processing) to
+patient. Nabla founders saw an opportunity to use [NLP](https://www.cloudflare.com/learning/ai/natural-language-processing-nlp/#:~:text=Natural%20language%20processing%20(NLP)%20is,of%20the%20meaning%20of%20language.) (Natural Language Processing) to
 automate the note-taking process and improve patient care.
 
 * Funding: Nabla received a series B funding in January of 2024 from Cathay Innovation
@@ -39,7 +39,7 @@ that will reflect their needs and style.
 automated note-taking system that uses NLP technology to transcribe and summarize
 doctor-patient interactions in real time.
 
-* Current Technologies Used: Nabla is a complete AI assistant that offers clinical notes,
+* Current Technologies Used: Nabla is a complete [AI](https://www.cloudflare.com/learning/ai/what-is-artificial-intelligence/#:~:text=Cloudflare%20for%20AI%20allows%20developers,on%20the%20Cloudflare%20global%20network.)(Artificial Intelligence) assistant that offers clinical notes,
 decision prompting, patient summaries, medical codification, EHR integration, and precharting.
 “It supports direct API integration with the tech stack you already use, whether through existing
 partnerships with EHRs and telehealth solutions or direct integration with proprietary software”
@@ -48,8 +48,9 @@ partnerships with EHRs and telehealth solutions or direct integration with propr
    Given the sensitive nature of healthcare, Nabla places a strong emphasis on data privacy
 and security. To ensure high protection, Nabla never stores user data, such as audio and
 transcripts, beyond the moment needed to generate summaries. They adhere to HIPAA and
-GDPR standards through an external API and are committed to never selling data or
-training their models using patient information. “All stored transcripts and notes are
+GDPR standards through an external [API](https://www.cloudflare.com/learning/security/api/what-is-an-api/#:~:text=An%20application%20programming%20interface%20(API)%20is%20a%20set%20of%20rules,data%20to%20another%20software%20program.) and are committed to never selling data or
+training their models using patient information.
+ > “All stored transcripts and notes are
 protected with two layers of encryption (system and application), using strong
 cryptography standards. This data processing is done on Nabla's infrastructure in Google
 Cloud Platform (GCP) and Microsoft Azure, in strict compliance with both HIPAA and GDPR.
@@ -77,7 +78,8 @@ platforms which includes wearables, big data, and health analytics. The focus is
 providing services to key stakeholders and on real-time outcomes. They predict that the
 future decade will focus on medical solutions through robotics, AI, and Augmented Reality.
 They predict the focus will be on preventative care and intelligent solutions. (PwC.com)
-We have already entered the “future decade” that PwC describes, and AI has started to take
+
+   We have already entered the “future decade” that PwC describes, and AI has started to take
 over the old ways of healthcare. As AI continues to evolve, these trends will only deepen
 and will create a more customized approach to healthcare.
 
@@ -122,7 +124,7 @@ mentioned.
 
 * Performance: Nabla is a smaller company than Microsoft or Google, but it is being used
 and recognized in the healthcare industry. Unlike the other larger companies, Nabla
-focuses on NLP and excels at it. While other companies focus on multiple products, Nabla
+focuses only on NLP and excels at it. While other companies focus on multiple products, Nabla
 has a Niche market, ensuring their excellence. Even though they have strong competitors,
 their focus on data privacy and security has allowed them to position themselves as a
 unique competitor.
@@ -149,7 +151,7 @@ already existing product would help them position themselves as a leader in the 
 healthcare industry.
 
 * Recommended Product/Services Technologies: Beyond the NLP technology it already
-uses to automate documentation, it would also use machine learning and deep learning.
+uses to automate documentation, it would also use [machine learning](https://www.cloudflare.com/learning/ai/what-is-machine-learning/) and [deep learning](https://www.cloudflare.com/learning/ai/what-is-deep-learning/#:~:text=Deep%20learning%20is%20a%20powerful,for%20many%20types%20of%20AI.).
 This would be used to analyze the data and generate suggestions. The model would be
 trained on a large dataset to identify patterns. The datasets would be stored in cloud
 computing platforms where it is cross-referenced with the documentation, but the 
