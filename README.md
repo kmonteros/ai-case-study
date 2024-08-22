@@ -1,4 +1,4 @@
-# ai-case-study
+# AI-Case-Study
 # Nabla: Revolutionizing Medical Documentation with AI 
  
 ## Overview and Origin 
